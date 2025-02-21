@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="user_name">Harsh</string>
+    <string name="play_music">Play Music</string>
+    <string name="stop_music">Stop Music</string>
+
+</resources>
