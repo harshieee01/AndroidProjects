@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditTextExample</string>
+    <string name="enter_user_name">Enter Username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_user_email">Enter user email</string>
+</resources>
