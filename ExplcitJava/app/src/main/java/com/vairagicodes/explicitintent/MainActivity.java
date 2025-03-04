@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 Intent intent = new Intent(MainActivity.this, TargatedActivity.class);
-                intent.putExtra("User Name","Harsh");
-                intent.putExtra("User Email", "abc@gmail.com");
+                intent.putExtra("User Name","Harshita");
+                intent.putExtra("User Email", "harshita01@gmail.com");
                 startActivity(intent);
             }
         });
